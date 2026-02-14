@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=25&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;React+Native+%7C+Laravel+%7C+Node.js;Hospital+Systems+Architect;Turning+Ideas+Into+Production+Systems;Future+AI+Tech+Founder"/>
 </p>
 
+
+
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
 </p>
-
-🛠 Tech Stack
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
