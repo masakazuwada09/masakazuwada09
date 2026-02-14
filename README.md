@@ -54,7 +54,9 @@
 - 📫 Email: **masakazuwada09@gmail.com**
 - ⚡ Fun fact: *I don’t push bugs. I commit features.*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
 
 ## 🌍 Connect With Me
 
@@ -67,7 +69,9 @@
 
 ![Header](./github-header.png)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
 
 ## 🛠 Tech Stack
 
@@ -75,7 +79,9 @@
   <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,php,laravel,python,ruby,java,kotlin,c,cs,mysql,postgres,docker,kubernetes,firebase,git,linux,unity,tensorflow,nextjs,webpack&perline=8"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -91,7 +97,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masakazuwada09&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
 
 ## ☕ Support
 
