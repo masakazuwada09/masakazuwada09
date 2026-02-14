@@ -1,8 +1,19 @@
 ![Header](./github-header.png)
 
+<!-- AI CORE HOLOGRAM -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Masakazu%20Wada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20Native%20%7C%20AI%20Builder&descAlignY=55&descAlign=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Initializing+AI+Core...;Booting+Neural+Network...;Loading+Machine+Intelligence...;Establishing+Secure+Node+Connection...;AI+Core+Status:+ONLINE+%E2%9C%94" />
 </p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/100/?title=AI+Core+Loading&width=600&color=00f5ff" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=25&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;React+Native+%7C+Laravel+%7C+Node.js;Hospital+Systems+Architect;Turning+Ideas+Into+Production+Systems;Future+AI+Tech+Founder"/>
