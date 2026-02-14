@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=25&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;React+Native+%7C+Laravel+%7C+Node.js;Hospital+Systems+Architect;Turning+Ideas+Into+Production+Systems;Future+AI+Tech+Founder"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
 </p>
 
@@ -107,11 +111,6 @@
   <a href="https://www.buymeacoffee.com/zzzinfnxqr">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=25&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;React+Native+%7C+Laravel+%7C+Node.js;Hospital+Systems+Architect;Turning+Ideas+Into+Production+Systems;Future+AI+Tech+Founder"/>
 </p>
 
 
