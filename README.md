@@ -46,7 +46,40 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logoColor=white"/> <!-- generic, no standard logo -->
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
+</p>
 
+
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building **Townlink App**
+- 🌱 Learning **Python, Ruby, C, C#, React Native**
+- 🤝 Open to collaborate on **AI Projects**
+- 💬 Ask me about **React, React Native, Laravel**
+- 🌐 Portfolio: https://masakazu.netlify.app/
+- 📫 Email: **masakazuwada09@gmail.com**
+- ⚡ Fun fact: *I don’t push bugs. I commit features.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://dev.to/masakazuwada09"><img src="https://skillicons.dev/icons?i=devto"/></a>
+  <a href="https://linkedin.com/in/mmedalle"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://fb.com/m.masakazu"><img src="https://skillicons.dev/icons?i=facebook"/></a>
+  <a href="https://www.behance.net/kyahwads"><img src="https://skillicons.dev/icons?i=behance"/></a>
+</p>
+
+![Header](./github-header.png)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
+
+## 🛠 Tech Stack
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -121,45 +154,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-</p>
-
-
-
-## 👨‍💻 About Me
-
-- 🔭 Currently building **Townlink App**
-- 🌱 Learning **Python, Ruby, C, C#, React Native**
-- 🤝 Open to collaborate on **AI Projects**
-- 💬 Ask me about **React, React Native, Laravel**
-- 🌐 Portfolio: https://masakazu.netlify.app/
-- 📫 Email: **masakazuwada09@gmail.com**
-- ⚡ Fun fact: *I don’t push bugs. I commit features.*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
-</p>
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://dev.to/masakazuwada09"><img src="https://skillicons.dev/icons?i=devto"/></a>
-  <a href="https://linkedin.com/in/mmedalle"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://fb.com/m.masakazu"><img src="https://skillicons.dev/icons?i=facebook"/></a>
-  <a href="https://www.behance.net/kyahwads"><img src="https://skillicons.dev/icons?i=behance"/></a>
-</p>
-
-![Header](./github-header.png)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
-</p>
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,php,laravel,python,ruby,java,kotlin,c,cs,mysql,postgres,docker,kubernetes,firebase,git,linux,unity,tensorflow,nextjs,webpack&perline=8"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
