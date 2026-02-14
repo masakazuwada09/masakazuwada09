@@ -1,4 +1,7 @@
 ![Header](./github-header.png)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=600&color=FF003C&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESSING+SECURE+SERVER...;DECRYPTING+AI+MODEL...;MASAKAZU.EXE+LOADED;ACCESS+GRANTED+✔" />
+</p>
 
 <!-- AI CORE HOLOGRAM -->
 <p align="center">
