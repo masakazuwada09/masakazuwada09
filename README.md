@@ -1,11 +1,8 @@
 ![Header](./github-header.png)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=600&color=FF003C&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESSING+SECURE+SERVER...;DECRYPTING+AI+MODEL...;MASAKAZU.EXE+LOADED;ACCESS+GRANTED+✔" />
-</p>
-
-<!-- AI CORE HOLOGRAM -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=3"/>
+  <img src="https://img.shields.io/badge/Mode-AI%20Lab-00f5ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mode-Hacker-ff00cc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mode-Medical-00ff99?style=for-the-badge"/>
 </p>
 
 
