@@ -1,14 +1,14 @@
 ![Header](./github-header.png)
 
 <!-- AI CORE HOLOGRAM -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Initializing+AI+Core...;Booting+Neural+Network...;Loading+Machine+Intelligence...;Establishing+Secure+Node+Connection...;AI+Core+Status:+ONLINE+%E2%9C%94" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=3"/>
 </p>
 
 <p align="center">
-  <img src="https://progress-bar.dev/100/?title=AI+Core+Loading&width=600&color=00f5ff" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masakazuwada09&theme=matrix&no-frame=true&no-bg=true"/>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
