@@ -5,10 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=3"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masakazuwada09&theme=matrix&no-frame=true&no-bg=true"/>
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
