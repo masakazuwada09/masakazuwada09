@@ -1,59 +1,59 @@
 ![Header](./github-header.png)
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <th>⚡ FRONTEND</th>
-    <th>🔥 BACKEND</th>
-    <th>🗄 DATABASE</th>
-    <th>⚙ DEVOPS</th>
-    <th>🧠 AI / ADVANCED</th>
+    <th align="center">⚡ FRONTEND</th>
+    <th align="center">🔥 BACKEND</th>
+    <th align="center">🗄 DATABASE</th>
+    <th align="center">⚙ DEVOPS</th>
+    <th align="center">🧠 AI / ADVANCED</th>
   </tr>
+
   <tr>
-    <td align="center">
-
-<img src="https://img.shields.io/badge/React-00f5ff?style=for-the-badge&logo=react&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/React_Native-00f5ff?style=for-the-badge&logo=react&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/TypeScript-00f5ff?style=for-the-badge&logo=typescript&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/JavaScript-00f5ff?style=for-the-badge&logo=javascript&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Next.js-00f5ff?style=for-the-badge&logo=nextdotjs&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/HTML5-00f5ff?style=for-the-badge&logo=html5&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/CSS3-00f5ff?style=for-the-badge&logo=css3&logoColor=black"/>
-
+    <!-- FRONTEND -->
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/React-00f5ff?style=for-the-badge&logo=react&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/React_Native-00f5ff?style=for-the-badge&logo=react&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/TypeScript-00f5ff?style=for-the-badge&logo=typescript&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/JavaScript-00f5ff?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/Next.js-00f5ff?style=for-the-badge&logo=nextdotjs&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/HTML5-00f5ff?style=for-the-badge&logo=html5&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/CSS3-00f5ff?style=for-the-badge&logo=css3&logoColor=black"/>
     </td>
-    <td align="center">
 
-<img src="https://img.shields.io/badge/Node.js-ff00cc?style=for-the-badge&logo=node.js&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Laravel-ff00cc?style=for-the-badge&logo=laravel&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/PHP-ff00cc?style=for-the-badge&logo=php&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Python-ff00cc?style=for-the-badge&logo=python&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Ruby-ff00cc?style=for-the-badge&logo=ruby&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/REST_API-ff00cc?style=for-the-badge&logo=fastapi&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/WebRTC-ff00cc?style=for-the-badge&logo=webrtc&logoColor=black"/>
-
+    <!-- BACKEND -->
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Node.js-ff00cc?style=for-the-badge&logo=node.js&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/Laravel-ff00cc?style=for-the-badge&logo=laravel&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/PHP-ff00cc?style=for-the-badge&logo=php&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/Python-ff00cc?style=for-the-badge&logo=python&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/Ruby-ff00cc?style=for-the-badge&logo=ruby&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/REST_API-ff00cc?style=for-the-badge&logo=fastapi&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/WebRTC-ff00cc?style=for-the-badge&logo=webrtc&logoColor=black"/>
     </td>
-    <td align="center">
 
-<img src="https://img.shields.io/badge/MySQL-00ff99?style=for-the-badge&logo=mysql&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/PostgreSQL-00ff99?style=for-the-badge&logo=postgresql&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/SQLite-00ff99?style=for-the-badge&logo=sqlite&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Supabase-00ff99?style=for-the-badge&logo=supabase&logoColor=black"/>
-
+    <!-- DATABASE -->
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/MySQL-00ff99?style=for-the-badge&logo=mysql&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-00ff99?style=for-the-badge&logo=postgresql&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/SQLite-00ff99?style=for-the-badge&logo=sqlite&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/Supabase-00ff99?style=for-the-badge&logo=supabase&logoColor=black"/>
     </td>
-    <td align="center">
 
-<img src="https://img.shields.io/badge/Docker-24243e?style=for-the-badge&logo=docker&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Kubernetes-24243e?style=for-the-badge&logo=kubernetes&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Git-24243e?style=for-the-badge&logo=git&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Linux-24243e?style=for-the-badge&logo=linux&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Firebase-24243e?style=for-the-badge&logo=firebase&logoColor=white"/>
-
+    <!-- DEVOPS -->
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Docker-24243e?style=for-the-badge&logo=docker&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Kubernetes-24243e?style=for-the-badge&logo=kubernetes&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Git-24243e?style=for-the-badge&logo=git&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Linux-24243e?style=for-the-badge&logo=linux&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Firebase-24243e?style=for-the-badge&logo=firebase&logoColor=white"/>
     </td>
-    <td align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-ff9900?style=for-the-badge&logo=tensorflow&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/AI_Integration-ff9900?style=for-the-badge&logo=openai&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge&logo=scikitlearn&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Unity-ff9900?style=for-the-badge&logo=unity&logoColor=black"/>
-
+    <!-- AI -->
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/TensorFlow-ff9900?style=for-the-badge&logo=tensorflow&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/AI_Integration-ff9900?style=for-the-badge&logo=openai&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/Machine_Learning-ff9900?style=for-the-badge&logo=scikitlearn&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/Unity-ff9900?style=for-the-badge&logo=unity&logoColor=black"/>
     </td>
   </tr>
 </table>
