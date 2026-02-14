@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
 </p>
 
-![Header](./github-header.png)
 ## 🛠 Tech Stack
 <p align="center">
   <!-- Frontend -->
@@ -65,6 +64,8 @@
   <a href="https://fb.com/m.masakazu"><img src="https://skillicons.dev/icons?i=facebook"/></a>
   <a href="https://www.behance.net/kyahwads"><img src="https://skillicons.dev/icons?i=behance"/></a>
 </p>
+
+![Header](./github-header.png)
 
 ---
 
